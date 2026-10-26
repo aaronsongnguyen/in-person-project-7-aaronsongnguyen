@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack online shopping platform with cart, checkout, and payment integration",
+      "category": "web",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+      "imageUrl": "https://via.placeholder.com/600x400/4F46E5/ffffff?text=E-Commerce",
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "featured": true,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather application with forecasts, maps, and location search",
+      "category": "web",
+      "technologies": ["React", "OpenWeather API", "Chart.js"],
+      "imageUrl": "https://via.placeholder.com/600x400/06B6D4/ffffff?text=Weather+App",
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "featured": false,
+      "createdAt": "2024-02-20T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Task Management Mobile App",
+      "description": "React Native application for team collaboration and task tracking",
+      "category": "mobile",
+      "technologies": ["React Native", "Firebase", "Redux"],
+      "imageUrl": "https://via.placeholder.com/600x400/10B981/ffffff?text=Mobile+App",
+      "githubUrl": "https://github.com",
+      "liveUrl": null,
+      "featured": true,
+      "createdAt": "2024-03-10T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "Personal portfolio showcasing projects and skills with modern animations",
+      "category": "web",
+      "technologies": ["React", "Framer Motion", "Tailwind CSS"],
+      "imageUrl": "https://via.placeholder.com/600x400/F59E0B/ffffff?text=Portfolio",
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "featured": false,
+      "createdAt": "2024-04-05T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Dashboard",
+      "description": "Interactive visualization tool for ML model performance and data analysis",
+      "category": "data",
+      "technologies": ["Python", "React", "D3.js", "TensorFlow"],
+      "imageUrl": "https://via.placeholder.com/600x400/EF4444/ffffff?text=ML+Dashboard",
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "featured": true,
+      "createdAt": "2024-05-12T11:20:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Social Media Analytics Tool",
+      "description": "Track and analyze social media metrics across multiple platforms",
+      "category": "web",
+      "technologies": ["Vue.js", "Node.js", "PostgreSQL"],
+      "imageUrl": "https://via.placeholder.com/600x400/8B5CF6/ffffff?text=Analytics",
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "featured": false,
+      "createdAt": "2024-06-01T13:00:00Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "React",
+      "level": "Advanced",
+      "category": "frontend"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "level": "Expert",
+      "category": "frontend"
+    },
+    {
+      "id": 3,
+      "name": "Node.js",
+      "level": "Intermediate",
+      "category": "backend"
+    },
+    {
+      "id": 4,
+      "name": "Python",
+      "level": "Intermediate",
+      "category": "backend"
+    },
+    {
+      "id": 5,
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "category": "database"
+    }
+  ]
+}
